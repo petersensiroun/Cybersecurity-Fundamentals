@@ -1,13 +1,13 @@
 Hi, I'm Siroun
 
-Automation engineer moving into cybersecurity. I build things, break them, and document what I learn.
+I am an Automation Tester moving into cybersecurity. I'm currently Focused on growing my foundational knowledge.
 
 ---
 
 ## Current Focus
 
-- Working through a self-directed cybersecurity foundations program (Phases 0–3 of 8 complete)
-- Building **Home SOC** — a modular Python mini-SIEM covering log ingestion, detection engineering, alerting, incident response, and vulnerability correlation
+- Working through a self-directed cybersecurity foundations program (Phases 0–3 of 8 complete).
+- Building a Home SOC Python mini-SIEM that covers log ingestion, detection engineering, alerting, incident response, and vulnerability correlation.
 - Writing hands-on labs in Python, security automation, and defensive operations
 
 ---
@@ -23,7 +23,7 @@ Automation engineer moving into cybersecurity. I build things, break them, and d
 ## Skills
 
 **Languages:** Python, Scala, SQL, Bash  
-**Automation:** Playwright, Selenium WebDriver, GitHub Actions, Jenkins  
+**Automation:** Playwright, GitHub Actions, Jenkins  
 **Security (foundational):** CIA triad, threat modeling, authentication vs authorization, least privilege, OWASP Top 10  
 **Networking:** OSI and TCP/IP models, IP addressing and CIDR, DNS, HTTP/HTTPS/TLS, firewalls  
 **Log analysis:** Linux auth/syslog, web server logs, Windows Event Logs
@@ -33,7 +33,7 @@ Automation engineer moving into cybersecurity. I build things, break them, and d
 ## Projects
 
 ### Home SOC *(In Progress)*
-Modular Python mini-SIEM. Ingests multi-format logs, runs detection rules, manages incidents, correlates vulnerabilities, and produces compliance evidence. Built iteratively across my cybersecurity roadmap — each phase adds a layer.
+Python mini-SIEM. Ingests multi-format logs, runs detection rules, manages incidents, correlates vulnerabilities, and produces compliance evidence. It will be built parallel with my cybersecurity roadmap and each phase adds a layer.
 *Repo coming soon.*
 
 
