@@ -1,0 +1,52 @@
+Hi, I'm Siroun
+
+Automation engineer moving into cybersecurity. I build things, break them, and document what I learn.
+
+---
+
+## Current Focus
+
+- Working through a self-directed cybersecurity foundations program (Phases 0–3 of 8 complete)
+- Building **Home SOC** — a modular Python mini-SIEM covering log ingestion, detection engineering, alerting, incident response, and vulnerability correlation
+- Writing hands-on labs in Python, security automation, and defensive operations
+
+---
+
+## Background
+
+- 2 years as an Automation Test Engineer — Scala, Python, CI/CD, log analysis
+- B.S. Computer Science, Howard University
+- Based in Auckland, New Zealand
+
+---
+
+## Skills
+
+**Languages:** Python, Scala, SQL, Bash  
+**Automation:** Playwright, Selenium WebDriver, GitHub Actions, Jenkins  
+**Security (foundational):** CIA triad, threat modeling, authentication vs authorization, least privilege, OWASP Top 10  
+**Networking:** OSI and TCP/IP models, IP addressing and CIDR, DNS, HTTP/HTTPS/TLS, firewalls  
+**Log analysis:** Linux auth/syslog, web server logs, Windows Event Logs
+
+---
+
+## Projects
+
+### Home SOC *(In Progress)*
+Modular Python mini-SIEM. Ingests multi-format logs, runs detection rules, manages incidents, correlates vulnerabilities, and produces compliance evidence. Built iteratively across my cybersecurity roadmap — each phase adds a layer.
+*Repo coming soon.*
+
+
+### Cybersecurity Foundations Program *(In Progress)*
+Self-directed program covering security fundamentals, networking, operating systems, log analysis, attacks and defenses, security operations, vulnerability management, and GRC. Documented in Obsidian with a 60-skill dependency tree, Anki spaced-repetition deck, and per-phase checkpoint criteria.
+*Repo coming soon.*
+
+
+
+
+---
+
+## Contact
+
+- LinkedIn:https://linkedin.com/in/sirounpetersen
+- Email: petersen.siroun@gmail.com
