@@ -1,0 +1,13 @@
+Lab 3.1 — Build & Audit a Secure File Server
+Goal: Set up a small web-served directory tree with correct permissions
+
+Create three users: alice, bob, svc_www
+Create /srv/web/ with subfolders public, confidential, uploads
+Set permissions so:
+* public is readable by anyone
+* confidential is only readable by alice and bob
+* uploads is writable by svc_www but not world-writable
+Give svc_www permission to restart a service via sudo, but only that command and nothing else
+Run sudo -l -U svc_www and ls -la /srv/web/ to confirm
+
+A setup.sh script that creates everything automatically, Include the output of find /srv/web -perm /o+w (should be empty).
